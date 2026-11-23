@@ -9,21 +9,21 @@ prefix_len:            # length (bytes) of each student's prefix.txt (never a mu
   max: 250
   prohibited: [128, 192]
 
-task1_flag:
+flag_t1:
   type: password
   length: 16
-task2_flag:
+flag_t1q:
   type: password
   length: 16
-task3_flag:
+flag_t2:
   type: password
   length: 16
-task4_flag:
+flag_t3a:
   type: password
   length: 16
-task5_flag:
+flag_t3b:
   type: password
   length: 16
-task6_flag:
+flag_t4:
   type: password
   length: 16
