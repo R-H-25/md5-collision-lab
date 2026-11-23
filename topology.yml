@@ -6,7 +6,7 @@ hosts:
   - name: seed
     base_box:
       image: seed
-      mgmt_user: seed
+      mgmt_user: ubuntu
     flavor: m1.medium
 
   - name: authority
